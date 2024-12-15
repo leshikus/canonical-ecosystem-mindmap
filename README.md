@@ -12,8 +12,7 @@ different offerings.
 mindmap
   root((Ubuntu))
     Ubuntu Server
-        Rocky / CentOS
-        ::icon(fa fa-fist-raised)
+        &#x270A; Rocky / CentOS
         Debian
         ::icon(fa fa-fist-raised)
     Ubuntu Desktop
