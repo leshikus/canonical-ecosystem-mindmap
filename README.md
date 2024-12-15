@@ -9,33 +9,24 @@ different offerings.
 
 ```mermaid
 %%{init: {'theme': 'base'}}%%
+%%{init: {'theme': 'base'}}%%
 mindmap
   root((Ubuntu))
     Ubuntu Server
-        &#x270A; Rocky / CentOS
-        Debian
-        ::icon(fa fa-fist-raised)
+        rocky["#9876; Rocky"]
+        centos["#9876; Centos"]
+        debian["#9876; Debian"]
     Ubuntu Desktop
-        Windows
-        ::icon(fa fa-fist-raised)
-        MacOS
-        ::icon(fa fa-fist-raised)
-        Fedora Workstation
-        ::icon(fa fa-fist-raised)
+        win["#9876; Windows"]
+        mac["#9876; MacOS"]
+        fedora["#9876; Fedora"]
     Ubuntu Core
-        FreeRTOS
-        ::icon(fa fa-fist-raised)
-        Android
-        ::icon(fa fa-fist-raised)
-        VxWorks
-        ::icon(fa fa-fist-raised)
-        QNX
-        ::icon(fa fa-fist-raised)
+        freertos["#9876; FreeRTOS"]
+        android["#9876; Android"]
+        vxworks["#9876; VxWorks"]
+        qnx["#9876; QNX"]
     Ubuntu Pro
-        RHEL
-        ::icon(fa fa-fist-raised)
-        SLES
-        ::icon(fa fa-fist-raised)
-        Windows Server
-        ::icon(fa fa-fist-raised)
+        rhel["#9876; RHEL"]
+        sles["#9876; SLES"]
+        winserver["#9876; Windows Server"]
 ```
