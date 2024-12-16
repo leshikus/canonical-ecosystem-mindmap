@@ -60,5 +60,5 @@ mindmap
       gke["#9876; GKE"]
       kubexpert["#9876; Kubexpert"]
     MAAS
-      Old legacy solutions
+      legacy["#9876; Old legacy solutions"]
 ```
